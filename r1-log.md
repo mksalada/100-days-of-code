@@ -18,3 +18,6 @@ Today, I didn't do Project 0 because I helped a friend with a project. His proje
 I took a course for undestanding CSS Positioning before at Pluralsight. Today, I relearned it for positioning my navigation bar. And my problem is solved now.
 [See course](https://www.pluralsight.com/courses/css-positioning-1834)
 [See tweet](https://twitter.com/tinsalada/status/1446431225728487427)
+
+## Update: I stopped the challenge
+I stopped the challenged. I am not proud of it honestly but I have to stopped. Something came up and I got so frustrated that I had to stopped evrything I'm doing. I can't tell the details. I don't know if when I will start over for the challenge.
