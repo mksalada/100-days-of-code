@@ -11,7 +11,7 @@ I will be doing the website of [AdventuReady Youth Club.](https://web.facebook.c
 
 To dos:
 - [x] Join #100DaysOfCode Challenge
-- [ ] Create a new organization on GitHub
-- [ ] Create a new repository
-- [ ] Name the org and repo AdventuReady Youth Club, AdventuReady YC or ARYC
-- [ ] Install NextJS dependencies, Bootstrap, and so on.
+- [ ] ~~Create a new organization on GitHub~~
+- [x] Create a new repository
+- [x] Name the org and repo AdventuReady Youth Club, AdventuReady YC or ARYC
+- [x] Install NextJS dependencies, Bootstrap, and so on.
