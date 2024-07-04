@@ -36,7 +36,7 @@ To dos:
 - [x] Update `README.md` file
 - [ ] ~~Deploy site on [Vercel](https://vercel.com)~~
 
-### R2D2 - July 03, Webday, 2024
+### R2D2 - July 03, Wednesday, 2024
 
 Today, I learned about `react-bootstrap` plugin on YouTube. Thanks to **AyyazTech** and his [video](https://youtu.be/swxsnF3PXT4) about it. That's why I immediately uninstall `jQuery` and `bootstrap-icons` that I installed yesterday. I installed `react-bootstrap` and `react-icons` too and read some on their documentations. But my worry is that the website won't work or it throws lots of errors because the template I used have bunch of jQuery. I will still try to make it work. The styles are working fine but not the scripts. That's what I will do tomorrow. ([See post](https://web.facebook.com/tintinsalada/posts/pfbid0S891pSLVas1Gcngx16EixUWRSfTnSV9FH5TXgWWpagYT1unzTky9XwWo2ZeVunzSl))
 
@@ -48,3 +48,7 @@ To dos:
 - [x] Uninstall jQuery and Bootstrap Icons
 - [x] Install react-icons & react-bootstrap
 - [x] Delete bootstrap and jquery client components
+
+### R2D4 - July 04, Thursday, 2024
+
+My concerns and worries are right. I fixed some errors today even though it's for a short amount of time. We'll see tomorrow. ([See post]())
