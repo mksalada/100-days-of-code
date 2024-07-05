@@ -51,4 +51,5 @@ To dos:
 
 ### R2D4 - July 04, Thursday, 2024
 
-My concerns and worries are right. I fixed some errors today even though it's for a short amount of time. We'll see tomorrow. ([See post]())
+My concerns and worries are right. I fixed some errors today even though it's for a short amount of time. We'll see tomorrow. ([See post](https://web.facebook.com/tintinsalada/posts/pfbid0LR89Qd1oNpYGZhqMZ6M7bvnBAaYAbW9WsW8nVF8VFP37zjWaBhH7NFnxiWN4jM7wl))
+
