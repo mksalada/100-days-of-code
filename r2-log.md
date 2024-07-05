@@ -53,3 +53,28 @@ To dos:
 
 My concerns and worries are right. I fixed some errors today even though it's for a short amount of time. We'll see tomorrow. ([See post](https://web.facebook.com/tintinsalada/posts/pfbid0LR89Qd1oNpYGZhqMZ6M7bvnBAaYAbW9WsW8nVF8VFP37zjWaBhH7NFnxiWN4jM7wl))
 
+To dos:
+- [x] Add other images
+- [x] update indention (Tab: 2)
+- [ ] ~~try using jQuery (posponed)~~
+- [x] Fix icons
+- [x] replace not showing logos and iamges
+
+### R2D5 - July 5, Friday, 2024
+
+I tried creating an organization again on GitHub but it still didn't work. I thought its gonna send an email to the company email and I have to confirm it but I don't have access to our email and can't contact the one who have access so I tried one of my emails. Still didn't work and no email send. Then it showed an error message. It had problems with ReCapcha so I thought maybe it in the browser. And yes it is, JavaScript!
+
+After I've created an organization, I do what I had to do to deploy the website on vercel but I have to pay because it's a repo from an organization. I tried netlify even though I know it will still not gonna work.
+
+The one I deployed is the repo on my account. ([See post](https://web.facebook.com/tintinsalada/posts/pfbid03Hy2kKpEwdLWS2DqBSzwYNzwfpj9qBYK3ZMqiLV5F9zsZgDFGaxBFoVRGWPJvFb5l))
+
+- [x] Create  new organization ([adventureadyyc](https://github.com/adventureadyyc))
+- [x] Create new repository ([adventureadyyc](https://github.com/adventureadyyc/adventureadyyc))
+- [x] Create new NextJS app
+- [x] Install other dependencies (`react-icons` and `react-bootstrap`)
+- [x] Update styles (`global.css`)
+- [x] update `favicon.ico`
+- [x] Update `README.md`
+- [x] Setup Homepage
+- [x] Deploy Site ([adventuready.vercel.app](https://adventuready.vercel.app)/[adventuready.netlify.app](https://adventuready.netlify.app))
+
