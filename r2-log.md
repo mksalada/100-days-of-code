@@ -78,3 +78,11 @@ The one I deployed is the repo on my account. ([See post](https://web.facebook.c
 - [x] Setup Homepage
 - [x] Deploy Site ([adventuready.vercel.app](https://adventuready.vercel.app)/[adventuready.netlify.app](https://adventuready.netlify.app))
 
+### R2D6 - July 6, Saturday, 2024
+
+([See post](https://web.facebook.com/tintinsalada/posts/pfbid0Dhu8XYn8WEP2XcBpgyUgFcFav7dWAWk7ut3dN3Q62odjheHsQpcRNzC9FnEJ81Dql))
+
+- [x] create two different branches: (1: `dev`) one to test if `main` branch can use jQuery; and (2: `web`) another one for the original template (with jQuery) transforming into a Next JS app
+- [x] `dev`: upload js files
+- [x] `web`: uninstall `react-bootstrap` and `react-icons`
+- [x] `web`: install `bootstrap-icons` and `jquery`
