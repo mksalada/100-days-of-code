@@ -11,6 +11,7 @@ I can't open my X account coz I change my phone so I'm doing the updates on Face
 
 I will be doing the website of [AdventuReady Youth Club.](https://web.facebook.com/AdventuReadyYouthClub) and I'm publicly committing to the #100DaysOfCode Challenge starting today!
 
+Repo: `mksalada/adventuready`
 To dos:
 - [x] Join #100DaysOfCode Challenge ([See post](https://web.facebook.com/tintinsalada/posts/pfbid0nAa25vpKdb3cRdjmDtn4XmW6yFeJ1QzgSEhvJ16k1LgM5FLRVoAAbrVrvCnMne1kl))
 - [ ] ~~Create a new organization on GitHub~~
@@ -29,6 +30,7 @@ To dos:
 
 I ran out of data to push my commits today. But these are my proofs (check out the images attached to the post) that I did the challenge for today.([See post](https://web.facebook.com/tintinsalada/posts/pfbid032uggr4mh1hdiKAfFnLcnuGfn8SpCEbBn1fZkxnefDQjHm7FTbnd5Lx8doAX2bfPwl))
 
+Repo: `mksalada/adventuready`
 To dos:
 - [x] Import and connect Boostrap and jQuery components
 - [x] Change styles on `global.css` to Tiya Golf Club theme and move it on `styles` folder
@@ -40,6 +42,7 @@ To dos:
 
 Today, I learned about `react-bootstrap` plugin on YouTube. Thanks to **AyyazTech** and his [video](https://youtu.be/swxsnF3PXT4) about it. That's why I immediately uninstall `jQuery` and `bootstrap-icons` that I installed yesterday. I installed `react-bootstrap` and `react-icons` too and read some on their documentations. But my worry is that the website won't work or it throws lots of errors because the template I used have bunch of jQuery. I will still try to make it work. The styles are working fine but not the scripts. That's what I will do tomorrow. ([See post](https://web.facebook.com/tintinsalada/posts/pfbid0S891pSLVas1Gcngx16EixUWRSfTnSV9FH5TXgWWpagYT1unzTky9XwWo2ZeVunzSl))
 
+Repo: `mksalada/adventuready`
 To dos:
 - [x] Setup Homepage (`layout.jsx` & `page.jsx`)
 - [x] Create Nav, Hero, About, Contact, Events & Footer components
@@ -53,6 +56,7 @@ To dos:
 
 My concerns and worries are right. I fixed some errors today even though it's for a short amount of time. We'll see tomorrow. ([See post](https://web.facebook.com/tintinsalada/posts/pfbid0LR89Qd1oNpYGZhqMZ6M7bvnBAaYAbW9WsW8nVF8VFP37zjWaBhH7NFnxiWN4jM7wl))
 
+Repo: `mksalada/adventuready`
 To dos:
 - [x] Add other images
 - [x] update indention (Tab: 2)
@@ -68,6 +72,7 @@ After I've created an organization, I do what I had to do to deploy the website 
 
 The one I deployed is the repo on my account. ([See post](https://web.facebook.com/tintinsalada/posts/pfbid03Hy2kKpEwdLWS2DqBSzwYNzwfpj9qBYK3ZMqiLV5F9zsZgDFGaxBFoVRGWPJvFb5l))
 
+Repo: `adventureadyyc/adventureadyyc`
 - [x] Create  new organization ([adventureadyyc](https://github.com/adventureadyyc))
 - [x] Create new repository ([adventureadyyc](https://github.com/adventureadyyc/adventureadyyc))
 - [x] Create new NextJS app
@@ -76,13 +81,33 @@ The one I deployed is the repo on my account. ([See post](https://web.facebook.c
 - [x] update `favicon.ico`
 - [x] Update `README.md`
 - [x] Setup Homepage
+
+Repo: `mksalada/adventuready`
 - [x] Deploy Site ([adventuready.vercel.app](https://adventuready.vercel.app)/[adventuready.netlify.app](https://adventuready.netlify.app))
 
 ### R2D6 - July 6, Saturday, 2024
 
 ([See post](https://web.facebook.com/tintinsalada/posts/pfbid0Dhu8XYn8WEP2XcBpgyUgFcFav7dWAWk7ut3dN3Q62odjheHsQpcRNzC9FnEJ81Dql))
 
+Repo: `mksalada/adventuready`
 - [x] create two different branches: (1: `dev`) one to test if `main` branch can use jQuery; and (2: `web`) another one for the original template (with jQuery) transforming into a Next JS app
 - [x] `dev`: upload js files
 - [x] `web`: uninstall `react-bootstrap` and `react-icons`
 - [x] `web`: install `bootstrap-icons` and `jquery`
+
+### R2D7 - July 9, Tuesday, 2024
+
+Repo: `mksalada/adventuready`
+- [ ] `web`: Create Bootstrap Client
+- [ ] `web`: Add `jquery.min.js` and other jquery-based plugins (`click-scroll`, `animated-headline`, `jquery-sticky`)
+- [ ] `web`: Add `modernizr.js`
+- [ ] `web`: Update homepage and its componets components
+
+### R2D8 - July 10, Tuesday, 2024
+
+Repo: `mksalada/adventuready`
+- [ ] `web`: 
+- [ ] `web`: 
+- [ ] `web`: 
+- [ ] `web`: 
+- [ ] `web`: 
