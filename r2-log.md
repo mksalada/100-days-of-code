@@ -98,16 +98,16 @@ Repo: `mksalada/adventuready`
 ### R2D7 - July 9, Tuesday, 2024
 
 Repo: `mksalada/adventuready`
-- [ ] `web`: Create Bootstrap Client
-- [ ] `web`: Add `jquery.min.js` and other jquery-based plugins (`click-scroll`, `animated-headline`, `jquery-sticky`)
-- [ ] `web`: Add `modernizr.js`
-- [ ] `web`: Update homepage and its componets components
+- [x] `web`: Create Bootstrap Client
+- [x] `web`: Add `jquery.min.js` and other jquery-based plugins (`click-scroll`, `animated-headline`, `jquery-sticky`)
+- [x] `web`: Add `modernizr.js`
+- [x] `web`: Update homepage and its components
 
 ### R2D8 - July 10, Tuesday, 2024
 
 Repo: `mksalada/adventuready`
-- [ ] `web`: 
-- [ ] `web`: 
-- [ ] `web`: 
-- [ ] `web`: 
+- [x] `web`: Create `events` directory
+- [x] `web`: Add components for `events` directory
+- [x] `web`: Setup events page
+- [x] `web`: Update `README` file info about `web` branch
 - [ ] `web`: 
