@@ -103,11 +103,16 @@ Repo: `mksalada/adventuready`
 - [x] `web`: Add `modernizr.js`
 - [x] `web`: Update homepage and its components
 
-### R2D8 - July 10, Tuesday, 2024
+### R2D8 - July 10, Wednesday, 2024
 
 Repo: `mksalada/adventuready`
 - [x] `web`: Create `events` directory
 - [x] `web`: Add components for `events` directory
 - [x] `web`: Setup events page
 - [x] `web`: Update `README` file info about `web` branch
-- [ ] `web`: 
+
+### R2D9 - July 11, Thursday, 2024
+
+- [x] `web`: Fix erros of events page componets
+- [x] `web`: Create events [title] directory
+- [x] `web`: Setup events [title] page
