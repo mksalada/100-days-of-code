@@ -116,3 +116,7 @@ Repo: `mksalada/adventuready`
 - [x] `web`: Fix erros of events page componets
 - [x] `web`: Create events [title] directory
 - [x] `web`: Setup events [title] page
+
+### R2D10 - July 12, Friday, 2024
+
+- [ ] `web`: Display events' list and each event's details using JSON
